@@ -126,3 +126,21 @@ nav {
     font-size: 20px;
     font-weight: 600;
 }
+
+.my-inspiration-secton-container {
+    text-align: center;
+}
+
+.my-inspiration-secton-container h1 {
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+
+}
+
+.my-inspiration-secton-container p {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+
+}
