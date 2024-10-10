@@ -234,3 +234,11 @@ nav {
     font-weight: 600;
 
 }
+
+footer{
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
