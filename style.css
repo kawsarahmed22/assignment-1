@@ -144,3 +144,47 @@ nav {
     font-weight: 400;
 
 }
+
+.my-current-target-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.my-current-target-container h1 {
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+
+}
+
+.my-current-target-container p {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.cart-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+.cart-1 {
+    background: rgba(255, 76, 30, 0.05);
+    padding: 15px;
+    width: 33%;
+}
+.cart-1 a, .cart-2 a, .cart-3 a{
+    text-decoration: underline;
+}
+.cart-2 {
+background: rgba(0, 76, 232, 0.05);
+    padding: 15px;
+    width: 33%;
+}
+
+.cart-3 {
+    background: rgba(255, 223, 0, 0.05);
+    padding: 15px;
+    width: 33%;
+}
